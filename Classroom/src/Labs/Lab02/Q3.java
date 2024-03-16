@@ -31,6 +31,7 @@ public class Q3 {
         else {
             System.out.println("用户余额不足\n");
         }
+        r.close();
     }
 
     public static class User{
