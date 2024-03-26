@@ -15,7 +15,6 @@ public class Test {
 }
 
 interface Workable{
-    double salary = 0;
 
     void updateName(String NewName);
     double calculateSalary();
